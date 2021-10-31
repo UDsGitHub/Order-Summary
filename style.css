@@ -38,7 +38,6 @@ a {
   font-size: 0.875rem;
   font-weight: bold;
   display: block;
-  text-decoration: none;
   cursor: pointer;
 }
 
@@ -120,6 +119,7 @@ a:hover {
 
 .cancel {
   color: var(--Desaturated-blue);
+  text-decoration: none;
 }
 
 .cancel:hover {
